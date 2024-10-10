@@ -1,6 +1,4 @@
 
-
-# classes
 class TV:
     def __init__(self, ligada=False):
         self.cor = "preta"
