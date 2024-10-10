@@ -1,6 +1,8 @@
 
 class TV:
+
     def __init__(self, ligada=False):
+    
         self.cor = "preta"
         self.ligada = ligada
         self.tamanho = 42
